@@ -10,7 +10,7 @@ const Founder: React.FC = () => {
           {/* Image Side */}
           <div className="md:w-5/12 relative min-h-[400px]">
             <img
-              src="public/images/founder-miguel.jpg"
+              src="/images/founder-miguel.jpg"
               alt="Miguel Rezende - Founder"
               className="w-full h-full object-cover"
             />

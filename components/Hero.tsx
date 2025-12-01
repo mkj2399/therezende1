@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="public/videos/hero-background.mp4" type="video/mp4" /> {/* File name # */}
+          <source src="/videos/hero-background.mp4" type="video/mp4" /> {/* File name # */}
           Your browser does not support the video tag.
         </video>
 
