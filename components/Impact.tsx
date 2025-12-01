@@ -10,10 +10,10 @@ const Impact: React.FC = () => {
   ];
 
   const galleryImages = [
-    "https://images.unsplash.com/photo-1580541832626-2a7131ee809f?q=80&w=2000&auto=format&fit=crop", // Kids in school
-    "https://images.unsplash.com/photo-1560174038-da43ac74f01b?q=80&w=1000&auto=format&fit=crop", // Chess board
-    "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?q=80&w=2000&auto=format&fit=crop", // Hands playing
-    "https://images.unsplash.com/photo-1610631311465-b9d8234347b1?q=80&w=2000&auto=format&fit=crop"  // Strategy
+    "/images/impact-1.jpg",
+    "/images/impact-2.jpg",
+    "/images/impact-3.jpg",
+    "/images/impact-4.jpg"
   ];
 
   return (
