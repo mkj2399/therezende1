@@ -10,10 +10,10 @@ const Impact: React.FC = () => {
   ];
 
   const galleryImages = [
-    "/images/impact-1.jpg",
-    "/images/impact-2.jpg",
-    "/images/impact-3.jpg",
-    "/images/impact-4.jpg"
+    "public/images/impact-1.jpg",
+    "public/images/impact-2.jpg",
+    "public/images/impact-3.jpg",
+    "public/images/impact-4.jpg"
   ];
 
   return (

@@ -50,7 +50,7 @@ const About: React.FC = () => {
           <div className="relative order-1 lg:order-2 px-4 lg:px-0">
             <div className="aspect-[4/5] md:aspect-square rounded-sm overflow-hidden relative shadow-2xl border-[12px] border-white transform rotate-1">
               <img
-                src="/images/who-we-are.jpg"
+                src="public/images/who-we-are.jpg"
                 alt="Classic Chess Set"
                 className="w-full h-full object-cover"
               />
