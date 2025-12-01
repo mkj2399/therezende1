@@ -5,8 +5,8 @@ const Impact: React.FC = () => {
   const stats = [
     { icon: <Clock size={28} />, value: "100+", label: "Volunteer Hours" },
     { icon: <Users size={28} />, value: "30+", label: "Students per Club" },
-    { icon: <Trophy size={28} />, value: "1500", label: "Avg. Founder Rating" },
-    { icon: <Heart size={28} />, value: "∞", label: "Lives Impacted" },
+    { icon: <Trophy size={28} />, value: "1500", label: "Avg. Member ELO" },
+    { icon: <Heart size={28} />, value: "∞", label: "Smiles Created" },
   ];
 
   const galleryImages = [
