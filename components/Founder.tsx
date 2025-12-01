@@ -9,9 +9,9 @@ const Founder: React.FC = () => {
           
           {/* Image Side */}
           <div className="md:w-5/12 relative min-h-[400px]">
-            <img 
-              src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=2070&auto=format&fit=crop" 
-              alt="Miguel Rezende - Founder" 
+            <img
+              src="/images/founder-miguel.jpg"
+              alt="Miguel Rezende - Founder"
               className="w-full h-full object-cover"
             />
             <div className="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/70 to-transparent p-6">
@@ -27,13 +27,13 @@ const Founder: React.FC = () => {
 
             <div className="space-y-4 text-stone-600 leading-relaxed font-serif text-lg">
               <p>
-                Growing up witnessing the passion of his grandfather's students, Miguel's own love for chess blossomed in 2022. With the support of his teacher, Mrs. Edwards, he established a chess club at his local middle school.
+                Growing up witnessing the passion of his grandfather's students, Miguel's own love for chess reblossomed in 2022. With the support of his teacher, Mrs. Edwards, he established a chess club at his local middle school.
               </p>
               <p>
                 Under his leadership, the team earned <span className="text-emerald-700 font-bold bg-emerald-50 px-1">4th place</span> at state team qualifiers.
               </p>
               <p>
-                Miguel maintains an average rating of 1500 and continues to volunteer every Friday, helping children master the key positions needed for deep analysis.
+                Miguel maintains an average rating above 1500 and continues to volunteer every Friday, helping children master the key positions needed for deep analysis.
               </p>
             </div>
             

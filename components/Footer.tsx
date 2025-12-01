@@ -49,8 +49,8 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="text-emerald-600 mr-3 flex-shrink-0" size={18} />
-                <a href="mailto:contact@rezendeproject.org" className="text-stone-600 hover:text-stone-900 transition-colors">
-                  contact@rezendeproject.org
+                <a href="mailto:contact@therezende.org" className="text-stone-600 hover:text-stone-900 transition-colors">
+                  contact@therezende.org
                 </a>
               </li>
             </ul>

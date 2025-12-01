@@ -12,15 +12,13 @@ const Hero: React.FC = () => {
           muted
           playsInline
           className="w-full h-full object-cover"
-          poster="https://images.unsplash.com/photo-1529699211952-734e80c4d42b?q=80&w=2070&auto=format&fit=crop"
         >
-          {/* Replace the src below with the path to your uploaded video file */}
-          <source src="https://videos.pexels.com/video-files/2600609/2600609-hd_1920_1080_30fps.mp4" type="video/mp4" />
+          <source src="/videos/hero-video.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
-        
-        {/* Light Overlay for Brighter Theme & Readability */}
-        <div className="absolute inset-0 bg-gradient-to-r from-amber-50/95 via-amber-50/80 to-amber-50/40"></div>
+
+        {/* Opaque Overlay for Readability */}
+        <div className="absolute inset-0 bg-gradient-to-r from-amber-50/90 via-amber-50/70 to-amber-50/50"></div>
       </div>
 
       {/* Content */}

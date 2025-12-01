@@ -26,7 +26,7 @@ const About: React.FC = () => {
                 Josino represented Brazil on the national team in 1970 and was not only a strong player but also an exceptional teacher who guided countless Brazilian talents.
               </p>
               <p>
-                He taught chess at the prestigious <em className="text-stone-800">Instituto Tecnológico de Aeronáutica (ITA)</em> and consulted with prominent players, including Grandmaster Darcy Lima and Brazilian National Champion Juninho Medeiros.
+                He taught chess at the prestigious <em className="text-stone-800">Instituto Tecnológico de Aeronáutica (ITA)</em> and coached prominent players, including Grandmaster Darcy Lima, Brazilian National Champion Juninho Medeiros, and prominent YouTuber Gabriel Carvalho.
               </p>
             </div>
 
@@ -49,9 +49,9 @@ const About: React.FC = () => {
           {/* Image/Visual Content */}
           <div className="relative order-1 lg:order-2 px-4 lg:px-0">
             <div className="aspect-[4/5] md:aspect-square rounded-sm overflow-hidden relative shadow-2xl border-[12px] border-white transform rotate-1">
-              <img 
-                src="https://images.unsplash.com/photo-1586165368502-1bad197a6461?q=80&w=2658&auto=format&fit=crop" 
-                alt="Classic Chess Set" 
+              <img
+                src="/images/who-we-are.jpg"
+                alt="Classic Chess Set"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-amber-500/10 mix-blend-multiply"></div>
